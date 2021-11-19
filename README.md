@@ -9,6 +9,7 @@ Paragraph
 
 <!-- Line -->
 ___
+---
 
 <!-- Text attributes -->
 This is the **bold** text and this is the *italic* text and let's do ~~strikethrough~~.
@@ -18,12 +19,12 @@ This is the **bold** text and this is the *italic* text and let's do ~~strikethr
 
 <!-- Bullet list -->
 Fruits:
-🍎
-🍋
+- 🍎
+- 🍋
 
 Other fruits:
-🍑
-🍏
+* 🍑
+* 🍏
 
 <!-- Numbered list -->
 Numbers:
